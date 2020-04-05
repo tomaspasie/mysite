@@ -1,3 +1,5 @@
+![Screenshot Of Website Running On BrowserSync](./Website-Running-On-BrowserSync.png)
+
 # Project Description
 This project is a to setup WebStorm to work with Bootstrap, SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
 with partial html files.  When you complete this project, you will be able to build your project with these tools and 
